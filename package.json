@@ -1,0 +1,23 @@
+{
+  "name": "Avalyn",
+  "version": "0.1.2",
+  "description": "Avalyn is a multi-function Discord application that does more than moderate and organize your Discord servers and channels.",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Avalyn Project",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cli-color": "^2.0.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "discord.js": "^14.10.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "web3": "^4.1.1"
+  }
+}
