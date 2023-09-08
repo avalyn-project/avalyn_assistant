@@ -27,7 +27,9 @@ Keep in touch
 - bugs@xnitc.com
 
 Powered by The XNITC Network [2023]
-- On the web: https://xnitc.com/
+
+On the web
+- https://xnitc.com/
 
 Avalyn Discord Assistant NPM Requirements
 -
