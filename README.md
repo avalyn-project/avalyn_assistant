@@ -173,6 +173,7 @@ Please keep in mind, with the moderation, we do not advise you to use accounts t
 
 # Avalyn Discord Assistant [Default] Configuration
 - Requires a separate configuration section.
+
 {
 
 	“token”: “Token_ID”,
@@ -184,6 +185,7 @@ Please keep in mind, with the moderation, we do not advise you to use accounts t
 
 # Avalyn Discord Assistant [Web] Configuration
 - Requires a separate configuration section.
+
 }
 
 	“host”: “avalyn.xnitc.com”,
