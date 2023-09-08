@@ -64,24 +64,25 @@ There are so many Avalyn commands and features to come in future updates.
 
 Still, this is not all that Avalyn is, as you see the commands /print and /height communicate directly to the Avalyn Blockchain, which was also created by The Avalyn Project!
 
+# Upcoming Commands & Features.
 
+# Basic Mathematics Commands
 
+`/add [35+32]` - This command allows you to solve basic Addition equations.
+`/subtract [100-52]` - This command allows you to solve basic Subtraction equations.
+`/multiply [250x7]` - This command allows you to solve basic Multiplication equations.
 
-Upcoming Commands & Features.
-Basic Mathematics Commands
-/add [35+32] - This command allows you to solve basic Addition equations.
-/subtract [100-52] - This command allows you to solve basic Subtraction equations.
-/multiply [250x7] - This command allows you to solve basic Multiplication equations.
-Music Commands
-/play [Track] - This command simply resumes the current track.
-/pause - This command simply pauses the current track.
-/stop - This command simply stops the current track.
-/next - This command simply plays the next track.
-/prev - This command simply plays the previous track.
-/url [URL of Track] - This command allows you to play a track from a URL.
-/yt [URL] - This command allows you to play a track from a YouTube URL.
-/kw [Search Term] - This command allows you to find tracks from keyword searches.
-/lyrics [Track Name] - This command allows users to search lyrics of a specified track.
+# Music Commands
+
+`/play [Track]` - This command simply resumes the current track.
+`/pause` - This command simply pauses the current track.
+`/stop` - This command simply stops the current track.
+`/next` - This command simply plays the next track.
+`/prev` - This command simply plays the previous track.
+`/url [URL of Track]` - This command allows you to play a track from a URL.
+`/yt [URL]` - This command allows you to play a track from a YouTube URL.
+`/kw [Search Term]` - This command allows you to find tracks from keyword searches.
+`/lyrics [Track Name]` - This command allows users to search lyrics of a specified track.
 
 
 
