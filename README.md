@@ -67,8 +67,11 @@ There are so many Avalyn commands and features to come in future updates.
 # Blockchain Commands
 
 `/genesis` - This allows you to generate a Genesis Block for your own Blockchain.
+
 `/print [Number]` - This displays the hash of the specified Avalyn Blockchain blocks.
+
 `/height` - This displays the current height of the Avalyn Blockchain.
+
 `/price [Cryptocurrency]` - This displays the price of a specific cryptocurrency.
 
 Still, this is not all that Avalyn is, as you see the commands /print and /height communicate directly to the Avalyn Blockchain, which was also created by The Avalyn Project!
