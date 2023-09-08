@@ -133,6 +133,8 @@ Music Commands
 # Avalyn Web UI
 Avalyn has a built-in customizable light-weight HTTP/HTTPS (SSL) web system, which allows the self hosting of web pages within the Avalyn Framework.
 
+We have taken the liberty of creating the HTTP/HTTPS (SSL) virtual host files (WEB UI and RPC Client) you can find the virtual host configurations within the "includes" directory.
+
 Which includes the following web based settings and configuration.
 
 Avalyn Web Configuration. (Main Configuration)
