@@ -85,7 +85,8 @@ Blockchain Commands
 Still, this is not all that Avalyn is, as you see the commands /print and /height communicate directly to the Avalyn Blockchain, which was also created by The Avalyn Project!
 
 # Upcoming Commands & Features.
-You can find a full listing of commands and features at https://avalyn.xnitc.com/commands
+You can find a full listing of commands and features at
+- https://avalyn.xnitc.com/commands
 
 Basic Mathematics Commands
 -
