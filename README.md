@@ -34,6 +34,7 @@ npm install or npm update
 
 `If you would rather install the packages manually, you can easily run the command within the terminal in the Avalyn main directory.`
 `npm install [package]` or `npm install [package] –save`
+
 What is Avalyn?
 -
 Avalyn is a Discord Assistant that can do more than simply help you with the moderation, organization, and overall management of your Discord servers and channels.
