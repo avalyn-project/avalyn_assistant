@@ -13,13 +13,21 @@ Documentation Dates
 The Avalyn Project
 -
 `On the web`
+- https://xnitc.com/
+
+`Avalyn Web UI [Demo]`
 - https://avalyn.xnitc.com/
+- https://rpc.xnitc.com
+
 `Social Media`
 - https://twitter.com/avalyn_project/
+
 `Repositories`
 - https://github.com/avalyn-project/
+
 `Keep in touch`
-- bugs@avyblocks.com/
+- bugs@avalyn.cc
+- bugs@xnitc.com
 
 Powered by The XNITC Network [2023]
 - On the web: https://xnitc.com/
