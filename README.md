@@ -10,6 +10,7 @@ The Avalyn Project
 - On the web: https://avalyn.xnitc.com/
 - Twitter: https://twitter.com/avalyn_project/
 - GitHub: https://github.com/avalyn-project/
+- Bug Reporting: bugs@avyblocks.com
 
 Powered by The XNITC Network [2023]
 - On the web: https://xnitc.com/
