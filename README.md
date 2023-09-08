@@ -1,5 +1,4 @@
 # Avalyn Discord Assistant | [Version] 0.1.2 Beta
-
 `[Disclaimer]:`  Any and all commands, features, or functions mentioned within this documentation will be included within the final project, or within following updates and upgrades.
 
 # Documentation Dates
@@ -45,7 +44,6 @@ There are so many Avalyn commands and features to come in future updates.
 # Discord Commands
 
 # Utility Commands
-
 `/user` - This command simply displays the information of the command user.
 
 `/ping` - This command simply displays the current Latency/Ping of Avalyn.
@@ -57,7 +55,6 @@ There are so many Avalyn commands and features to come in future updates.
 `/purge [1-99]` - This removes the specified amount of channel messages.
 
 # Moderation Commands
-
 `/kick [User]` - This simply kicks a specific user from a Discord server.
 
 `/ban [User]` - This simply bans a specific user from a Discord server.
@@ -65,7 +62,6 @@ There are so many Avalyn commands and features to come in future updates.
 `/timeout [User]` - This simply puts a specific user in a timeout.
 
 # Blockchain Commands
-
 `/genesis` - This allows you to generate a Genesis Block for your own Blockchain.
 
 `/print [Number]` - This displays the hash of the specified Avalyn Blockchain blocks.
