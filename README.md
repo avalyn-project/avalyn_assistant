@@ -131,13 +131,13 @@ Which includes the following web based settings and configuration.
 - [Polkadot] (dot.html)
 All support is truly appreciated.
 
-Avalyn RPC Client
+# Avalyn RPC Client
 With the features and commands listed above, there is still more, embedded within its coding is the Avalyn RPC (Remote Procedure Call) Client. Which in some cases allows users to communicate with Avalyn without Discord access, all securely processed client-side.
 This light-weight RPC client allows ease of use, as it allows some functions to be operated outside of the Discord Framework.
 Some use cases include functions that are bound to the Avalyn Blockchain and the Avalyn Web UI.
 
 
-Avalyn RPC Usage Cases
+# Avalyn RPC Usage Cases
 This includes, but not limited to
 Genesis Block Creation. (/avy-rpc/genesis)
 Avalyn Crypto Wallet Creation. (/rpc/wallet)
@@ -150,7 +150,7 @@ If this project becomes more than the intended “Discord” only application, w
 Avalyn Plugins
 Please keep in mind, with the moderation, we do not advise you to use accounts that have high priority or accounts that are “main accounts”, as most of the moderation with Twitter and Roblox accounts and groups moderation accounts are usually operated with accounts known as “Alternate Accounts”.
 
-Avalyn Discord Assistant [Default] Configuration
+# Avalyn Discord Assistant [Default] Configuration
 {
 	“token”: “Token_ID”,
 	“prefix”: “/”,
@@ -158,7 +158,7 @@ Avalyn Discord Assistant [Default] Configuration
 	“guildId”: “Guild_ID”,
 }
 
-Avalyn Discord Assistant [Web] Configuration
+# Avalyn Discord Assistant [Web] Configuration
 }
 	“host”: “avalyn.xnitc.com”,
 	“port”: “1280”,
@@ -167,7 +167,7 @@ Avalyn Discord Assistant [Web] Configuration
 {
 
 
-Avalyn Twitter Automation
+# Avalyn Twitter Automation
 Will require Twitter/X Account Access.
 
 Requires a separate configuration section.
@@ -176,7 +176,7 @@ Requires a separate configuration section.
 	“twitter_pass”: “TwitterXPassword”,
 }
 
-Roblox Group Moderation
+# Roblox Group Moderation
 Will require Roblox Account Access.
 
 Requires a separate configuration section.
