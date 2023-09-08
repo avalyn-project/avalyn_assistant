@@ -12,8 +12,8 @@ Documentation Dates
 
 The Avalyn Project
 -
-
-`Avalyn Web UI [Demo]`
+Avalyn Web UI/RPC [Demos]
+-
 - https://avalyn.xnitc.com/
 - https://rpc.xnitc.com
 
