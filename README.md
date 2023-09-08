@@ -3,13 +3,13 @@
 -
 `[Disclaimer]:`  Any and all commands, features, or functions mentioned within this documentation will be included within the final project, or within following updates and upgrades.
 
--
 Documentation Dates
+-
 - [Established] Date: 02/17/2023
 - [Completion] Date: N/A
 
--
 The Avalyn Project
+-
 - On the web: https://avalyn.xnitc.com/
 - Twitter: https://twitter.com/avalyn_project/
 - GitHub: https://github.com/avalyn-project/
