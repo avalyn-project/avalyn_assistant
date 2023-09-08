@@ -128,7 +128,8 @@ Which includes the following web based settings and configuration.
 - [Bitcoin] (btc.html)
 - [Ethereum] (eth.html)
 - [Polkadot] (dot.html)
-All support is truly appreciated.
+
+`All support is truly appreciated.`
 
 # Avalyn RPC Client
 With the features and commands listed above, there is still more, embedded within its coding is the Avalyn RPC (Remote Procedure Call) Client. Which in some cases allows users to communicate with Avalyn without Discord access, all securely processed client-side.
