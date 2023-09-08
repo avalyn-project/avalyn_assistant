@@ -106,35 +106,33 @@ Still, this is not all that Avalyn is, as you see the commands /print and /heigh
 
 `/lyrics [Track Name]` - This command allows users to search lyrics of a specified track.
 
+`The Avalyn Project logos, icons, and trademarks are sole properties of The Avalyn Project, The Avalyn Protocol, The Avalyn Network, XNITC Network [2022] [2023].`
 
 
 
-The Avalyn Project logos, icons, and trademarks are sole properties of The Avalyn Project, The Avalyn Protocol, The Avalyn Network, XNITC Network [2022] [2023].
+# Avalyn Web UI
 
-
-
-Avalyn Web UI
 Avalyn has a built-in customizable light-weight HTTP/HTTPS (SSL) web system, which allows the self hosting of web pages within the Avalyn Framework.
 
 Which includes the following web based settings and configuration.
 
-Avalyn Web Settings/Configuration. (Main Configuration)
-[Home] (home.html)
-[About] (about.html)
-[Invite] (invite.html)
-[Donate] (donate.html)
+# Avalyn Web Settings/Configuration. (Main Configuration)
+- [Home] (home.html)
+- [About] (about.html)
+- [Invite] (invite.html)
+- [Donate] (donate.html)
 
-Avalyn Web Settings/Configuration. (Developmental)
-[Developmental] (hub.html)
-[Avalyn (AVY)] (crypto.html)
-[Avalyn Blockchain] (blocks.html)
-[Avalyn Wallet] (wallet.html)
+# Avalyn Web Settings/Configuration. (Developmental)
+- [Developmental] (hub.html)
+- [Avalyn (AVY)] (crypto.html)
+- [Avalyn Blockchain] (blocks.html)
+- [Avalyn Wallet] (wallet.html)
 
-Avalyn Support/Donation Methods. (Can be changed)
-[PayPal] (paypal.html)
-[Bitcoin] (btc.html)
-[Ethereum] (eth.html)
-[Polkadot] (dot.html)
+# Avalyn Support/Donation Methods. (Can be changed)
+- [PayPal] (paypal.html)
+- [Bitcoin] (btc.html)
+- [Ethereum] (eth.html)
+- [Polkadot] (dot.html)
 All support is truly appreciated.
 
 Avalyn RPC Client
