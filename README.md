@@ -13,21 +13,16 @@ Documentation Dates
 The Avalyn Project
 -
 Avalyn Web UI/RPC [Demos]
--
-
-- https://avalyn.xnitc.com/
-- https://rpc.xnitc.com
+- https://avalyn.xnitc.com/ [Beta]
+- https://rpc.xnitc.com/ [Beta]
 
 Social Media
--
 - https://twitter.com/avalyn_project/
 
 Repositories
--
 - https://github.com/avalyn-project/
 
 Keep in touch
--
 - bugs@avalyn.cc
 - bugs@xnitc.com
 
