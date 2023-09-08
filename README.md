@@ -3,7 +3,7 @@
 <a href="" target="_blank"><img src="" width="" height="" border="0"></a>
 </p>
 
-`Secure` | `User-Friendly` | `Client-Side.` | `Discord Client.` | `Web Client.` | `RPC Client.` | `Open Source`
+`Secure` | `User-Friendly` | `Client-Side.` | `Discord Client.` | `Web Client.` | `RPC Client.` | `Open Source Client`
 
 <p align="center">
 <a href="" target="_blank"><img src="https://code-maven.com/img/node.png" width="65" height="65" border="0"></a> <a href="" target="_blank"><img src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png" width="65" height="65" border="0"></a>
