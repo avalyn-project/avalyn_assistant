@@ -151,10 +151,10 @@ Some use cases include functions that are bound to the Avalyn Blockchain and the
 # Avalyn RPC Usage Cases
 This includes, but not limited to
 
-- Genesis Block Creation. (/avy-rpc/genesis)
-- Avalyn Crypto Wallet Creation. (/rpc/wallet)
-- Avalyn Blockchain Data. (/rpc/height, /rpc/blocks [Number Number])
-- Stock or Cryptocurrency Price Checks. (/rpc/stock [Name], /rpc/crypto [Name])
+- Genesis Block Creation. (/genesis)
+- Avalyn Crypto Wallet Creation. (/wallet)
+- Avalyn Blockchain Data. (/height, /blocks [Number Number])
+- Stock or Cryptocurrency Price Checks. (/stock [Name], /crypto [Name])
 
 
 Updates to the
