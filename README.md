@@ -192,12 +192,12 @@ Avalyn Discord Assistant [Default] Configuration
 - Requires a separate configuration section.
 
 {
-
+	{
 	“token”: “Token_ID”,
 	“prefix”: “/”,
 	“clientId”: “Client_ID”.
 	“guildId”: “Guild_ID”,
- 
+	}
 }
 
 Avalyn Discord Assistant [Web] Configuration
