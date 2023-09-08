@@ -22,8 +22,7 @@ GitHub: https://github.com/avalyn-project/
 
 Powered by The XNITC Network [2023]
 On the web: https://xnitc.com/
-
-
+<hr>
 Avalyn Discord Assistant NPM Requirements
 Discord.js v14.10.2
 CLI-Color v2.0.3
