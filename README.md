@@ -18,7 +18,8 @@ The Avalyn Project
 Powered by The XNITC Network [2023]
 - On the web: https://xnitc.com/
 
-# Avalyn Discord Assistant NPM Requirements
+Avalyn Discord Assistant NPM Requirements
+-
 - Discord.js v14.10.2
 - CLI-Color v2.0.3
 - Crypto v1.0.1
@@ -33,7 +34,8 @@ npm install or npm update
 
 `If you would rather install the packages manually, you can easily run the command within the terminal in the Avalyn main directory.`
 `npm install [package]` or `npm install [package] –save`
-# What is Avalyn?
+What is Avalyn?
+-
 Avalyn is a Discord Assistant that can do more than simply help you with the moderation, organization, and overall management of your Discord servers and channels.
 
 Avalyn can also
@@ -47,7 +49,8 @@ There are so many Avalyn commands and features to come in future updates.
 
 # Discord Commands
 
-# Utility Commands
+Utility Commands
+-
 `/user` - This command simply displays the information of the command user.
 
 `/ping` - This command simply displays the current Latency/Ping of Avalyn.
@@ -58,14 +61,16 @@ There are so many Avalyn commands and features to come in future updates.
 
 `/purge [1-99]` - This removes the specified amount of channel messages.
 
-# Moderation Commands
+Moderation Commands
+-
 `/kick [User]` - This simply kicks a specific user from a Discord server.
 
 `/ban [User]` - This simply bans a specific user from a Discord server.
 
 `/timeout [User]` - This simply puts a specific user in a timeout.
 
-# Blockchain Commands
+Blockchain Commands
+-
 `/genesis` - This allows you to generate a Genesis Block for your own Blockchain.
 
 `/print [Number]` - This displays the hash of the specified Avalyn Blockchain blocks.
@@ -78,16 +83,16 @@ Still, this is not all that Avalyn is, as you see the commands /print and /heigh
 
 # Upcoming Commands & Features.
 
-# Basic Mathematics Commands
-
+Basic Mathematics Commands
+-
 `/add [35+32]` - This command allows you to solve basic Addition equations.
 
 `/subtract [100-52]` - This command allows you to solve basic Subtraction equations.
 
 `/multiply [250x7]` - This command allows you to solve basic Multiplication equations.
 
-# Music Commands
-
+Music Commands
+-
 `/play [Track]` - This command simply resumes the current track.
 
 `/pause` - This command simply pauses the current track.
