@@ -123,14 +123,14 @@ Avalyn has a built-in customizable light-weight HTTP/HTTPS (SSL) web system, whi
 
 Which includes the following web based settings and configuration.
 
-# Avalyn Web Configuration. (Main Configuration)
+Avalyn Web Configuration. (Main Configuration)
 -
 - [Home] (home.html)
 - [About] (about.html)
 - [Invite] (invite.html)
 - [Donate] (donate.html)
 
-# Avalyn Web Settings/Configuration. (Developmental)
+Avalyn Web Settings/Configuration. (Developmental)
 -
 - [Developmental] (hub.html)
 - [Avalyn (AVY)] (crypto.html)
