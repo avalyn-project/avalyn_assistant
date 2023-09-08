@@ -124,18 +124,21 @@ Avalyn has a built-in customizable light-weight HTTP/HTTPS (SSL) web system, whi
 Which includes the following web based settings and configuration.
 
 # Avalyn Web Configuration. (Main Configuration)
+-
 - [Home] (home.html)
 - [About] (about.html)
 - [Invite] (invite.html)
 - [Donate] (donate.html)
 
 # Avalyn Web Settings/Configuration. (Developmental)
+-
 - [Developmental] (hub.html)
 - [Avalyn (AVY)] (crypto.html)
 - [Avalyn Blockchain] (blocks.html)
 - [Avalyn Wallet] (wallet.html)
 
-# Avalyn Support/Donation Methods. (Can be changed)
+Avalyn Support/Donation Methods. (Can be changed)
+-
 - [PayPal] (paypal.html)
 - [Bitcoin] (btc.html)
 - [Ethereum] (eth.html)
@@ -151,7 +154,8 @@ This light-weight RPC client allows ease of use, as it allows some functions to 
 Some use cases include functions that are bound to the Avalyn Blockchain and the Avalyn Web UI.
 
 
-# Avalyn RPC Usage Cases
+Avalyn RPC Usage Cases
+-
 This includes, but not limited to
 
 - Genesis Block Creation. (/genesis)
@@ -171,7 +175,8 @@ If this project becomes more than the intended “Discord” only application, w
 # Avalyn Plugins
 Please keep in mind, with the moderation, we do not advise you to use accounts that have high priority or accounts that are “main accounts”, as most of the moderation with Twitter and Roblox accounts and groups moderation accounts are usually operated with accounts known as “Alternate Accounts”.
 
-# Avalyn Discord Assistant [Default] Configuration
+Avalyn Discord Assistant [Default] Configuration
+-
 - Requires a separate configuration section.
 
 {
@@ -183,7 +188,8 @@ Please keep in mind, with the moderation, we do not advise you to use accounts t
  
 }
 
-# Avalyn Discord Assistant [Web] Configuration
+Avalyn Discord Assistant [Web] Configuration
+-
 - Requires a separate configuration section.
 
 }
@@ -195,7 +201,8 @@ Please keep in mind, with the moderation, we do not advise you to use accounts t
  
 {
 
-# Avalyn Twitter Automation
+Avalyn Twitter Automation
+-
 - Will require Twitter/X Account Access.
 - Requires a separate configuration section.
 
@@ -206,7 +213,8 @@ Please keep in mind, with the moderation, we do not advise you to use accounts t
  
 }
 
-# Roblox Group Moderation
+Roblox Group Moderation
+-
 - Will require Roblox Account Access.
 - Requires a separate configuration section.
 
