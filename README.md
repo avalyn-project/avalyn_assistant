@@ -150,8 +150,6 @@ Avalyn Plugins
 Please keep in mind, with the moderation, we do not advise you to use accounts that have high priority or accounts that are “main accounts”, as most of the moderation with Twitter and Roblox accounts and groups moderation accounts are usually operated with accounts known as “Alternate Accounts”.
 
 # Avalyn Discord Assistant [Default] Configuration
-
-`
 {
 
 	“token”: “Token_ID”,
@@ -163,11 +161,8 @@ Please keep in mind, with the moderation, we do not advise you to use accounts t
 	“guildId”: “Guild_ID”,
  
 }
-`
 
 # Avalyn Discord Assistant [Web] Configuration
-
-`
 }
 
 	“host”: “avalyn.xnitc.com”,
@@ -179,14 +174,11 @@ Please keep in mind, with the moderation, we do not advise you to use accounts t
 	“rpc_port”: “1281”,
  
 {
-`
 
 # Avalyn Twitter Automation
 Will require Twitter/X Account Access.
 
 Requires a separate configuration section.
-
-`
 {
 
 	“twitter_user”: “TwitterXUsername”,
@@ -194,13 +186,11 @@ Requires a separate configuration section.
 	“twitter_pass”: “TwitterXPassword”,
  
 }
-`
 
 # Roblox Group Moderation
 Will require Roblox Account Access.
 
 Requires a separate configuration section.
-`
 {
 
 	“rblx_user”: “RobloxianUsername”,
@@ -208,7 +198,7 @@ Requires a separate configuration section.
 	“rblx_pass”: “RobloxianPassword”,
  
 }
-`
+
 Side note to the users, Avalyn Discord Assistant tries to collect as little data as possible, focusing on a more user friendly and secure Discord user experience.
 
 The only actual data that is used is the data within the configuration, even then it is only passed when it is required and only to the respective locations as needed.
