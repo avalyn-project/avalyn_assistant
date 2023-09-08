@@ -1,14 +1,14 @@
 {
-	"token": "MTExMTI1MjMyODAzNzc0ODc4Ng.GhemGl.MunIi10NQUqkL1oxjHxYC9OSzSQZPUuXeRYOsM",
+	"token": "<!--[Client-Token]--!>",
 
 	"prefix": "/",
-	"clientId": "1111252328037748786",
-	"guildId": "1110700644152655885",
+	"clientId": "<!--[Client-ID]--!>",
+	"guildId": "<!--[Guild-ID]--!>",
 
-	"host": "avalyn.xnitc.com",
+	"host": "web.example.com",
 	"port": "1280",
 
-	"rpc_host": "rpc.xnitc.com",
+	"rpc_host": "rpc-client.example.com",
 	"rpc_port": "1281"
 
 }
