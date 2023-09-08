@@ -153,11 +153,8 @@ Please keep in mind, with the moderation, we do not advise you to use accounts t
 {
 
 	“token”: “Token_ID”,
- 
 	“prefix”: “/”,
- 
 	“clientId”: “Client_ID”.
- 
 	“guildId”: “Guild_ID”,
  
 }
@@ -166,11 +163,8 @@ Please keep in mind, with the moderation, we do not advise you to use accounts t
 }
 
 	“host”: “avalyn.xnitc.com”,
- 
 	“port”: “1280”,
- 
 	“rpc_host”: “rpc.xnitc.com”,
- 
 	“rpc_port”: “1281”,
  
 {
@@ -182,7 +176,6 @@ Requires a separate configuration section.
 {
 
 	“twitter_user”: “TwitterXUsername”,
- 
 	“twitter_pass”: “TwitterXPassword”,
  
 }
@@ -194,7 +187,6 @@ Requires a separate configuration section.
 {
 
 	“rblx_user”: “RobloxianUsername”,
- 
 	“rblx_pass”: “RobloxianPassword”,
  
 }
