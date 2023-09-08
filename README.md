@@ -135,7 +135,7 @@ Avalyn has a built-in customizable light-weight HTTP/HTTPS (SSL) web system, whi
 
 `We have taken the liberty of creating the HTTP/HTTPS (SSL) virtual host files (WEB UI and RPC Client) you can find the virtual host configurations within the "includes" directory.`
 
-`Edit the files however you need to, once you have set your virtual host files to fit your configurations`
+`Edit the files however you need to, once you have set your virtual host files to fit your configurations, you can remove/delete the "includes" directory, it is not needed past this point.`
 
 Which includes the following web based settings and configuration.
 
