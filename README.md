@@ -1,5 +1,4 @@
-
-Avalyn Discord Assistant | [Version] 0.1.2 Beta
+# Avalyn Discord Assistant | [Version] 0.1.2 Beta
 
 [Disclaimer]:  Any and all commands, features, or functions mentioned within this documentation will be included within the final project, or within following updates and upgrades.
 
