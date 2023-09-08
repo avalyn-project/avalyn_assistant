@@ -150,6 +150,7 @@ Avalyn Plugins
 Please keep in mind, with the moderation, we do not advise you to use accounts that have high priority or accounts that are “main accounts”, as most of the moderation with Twitter and Roblox accounts and groups moderation accounts are usually operated with accounts known as “Alternate Accounts”.
 
 # Avalyn Discord Assistant [Default] Configuration
+
 {
 
 	“token”: “Token_ID”,
@@ -160,6 +161,7 @@ Please keep in mind, with the moderation, we do not advise you to use accounts t
 }
 
 # Avalyn Discord Assistant [Web] Configuration
+
 }
 
 	“host”: “avalyn.xnitc.com”,
@@ -173,6 +175,7 @@ Please keep in mind, with the moderation, we do not advise you to use accounts t
 Will require Twitter/X Account Access.
 
 Requires a separate configuration section.
+
 {
 
 	“twitter_user”: “TwitterXUsername”,
@@ -184,6 +187,7 @@ Requires a separate configuration section.
 Will require Roblox Account Access.
 
 Requires a separate configuration section.
+
 {
 
 	“rblx_user”: “RobloxianUsername”,
