@@ -42,22 +42,16 @@ There are so many Avalyn commands and features to come in future updates.
 
 # Discord Commands
 # Utility Commands
-/user - This command simply displays the information of the command user.
-
-/ping - This command simply displays the current Latency/Ping of Avalyn.
-
-/server - This command simply displays the current server's information.
-
-/specs - This displays information and specifications regarding Avalyn.
-
-/purge [1-99] - This removes the specified amount of channel messages.
+`/user` - This command simply displays the information of the command user.
+`/ping` - This command simply displays the current Latency/Ping of Avalyn.
+`/server` - This command simply displays the current server's information.
+`/specs` - This displays information and specifications regarding Avalyn.
+`/purge [1-99]` - This removes the specified amount of channel messages.
 
 # Moderation Commands
-/kick [User] - This simply kicks a specific user from a Discord server.
-
-/ban [User] - This simply bans a specific user from a Discord server.
-
-/timeout [User] - This simply puts a specific user in a timeout.
+`/kick [User]` - This simply kicks a specific user from a Discord server.
+`/ban [User]` - This simply bans a specific user from a Discord server.
+`/timeout [User]` - This simply puts a specific user in a timeout.
 
 # Blockchain Commands
 /genesis - This allows you to generate a Genesis Block for your own Blockchain.
