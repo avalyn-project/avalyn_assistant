@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
+	
 `Secure` | `User-Friendly` | `Client-Side.` | `Discord Client.` | `Web Client.` | `RPC Client.`
+
 </p>
 
 <p align="center">
