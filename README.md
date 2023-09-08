@@ -223,10 +223,8 @@ Roblox Group Moderation
 - Requires a separate configuration section.
 
 {
-
 	“rblx_user”: “RobloxianUsername”,
 	“rblx_pass”: “RobloxianPassword”,
- 
 }
 
 Side note to the users, Avalyn Discord Assistant tries to collect as little data as possible, focusing on a more user friendly and secure Discord user experience.
