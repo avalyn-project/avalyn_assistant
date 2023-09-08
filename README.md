@@ -107,12 +107,11 @@ Still, this is not all that Avalyn is, as you see the commands /print and /heigh
 
 
 # Avalyn Web UI
-
 Avalyn has a built-in customizable light-weight HTTP/HTTPS (SSL) web system, which allows the self hosting of web pages within the Avalyn Framework.
 
 Which includes the following web based settings and configuration.
 
-# Avalyn Web Settings/Configuration. (Main Configuration)
+# Avalyn Web Configuration. (Main Configuration)
 - [Home] (home.html)
 - [About] (about.html)
 - [Invite] (invite.html)
