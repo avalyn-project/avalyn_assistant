@@ -1,7 +1,8 @@
 <a href="" target="_blank"><img src="" width="" height="" border="0"></a>
 
 `Secure` | `User-Friendly` | `Client-Side.` | `Discord Client.` | `Web Client.` | `RPC Client.`
-<a href="" target="_blank"><img src="https://www.orientsoftware.com/Themes/OrientSoftwareTheme/Content/Images/technologies/nodejs/benefits-of-outsourcing-nodejs-development-3.png" width="75" height="50" border="0"></a>
+
+<a href="" target="_blank"><img src="https://code-maven.com/img/node.png" width="50" height="75" border="0"></a>
 # Avalyn Discord Assistant.
 Version 0.1.2 Beta
 -
