@@ -151,18 +151,28 @@ Please keep in mind, with the moderation, we do not advise you to use accounts t
 
 # Avalyn Discord Assistant [Default] Configuration
 {
+
 	“token”: “Token_ID”,
+ 
 	“prefix”: “/”,
+ 
 	“clientId”: “Client_ID”.
+ 
 	“guildId”: “Guild_ID”,
+ 
 }
 
 # Avalyn Discord Assistant [Web] Configuration
 }
+
 	“host”: “avalyn.xnitc.com”,
+ 
 	“port”: “1280”,
+ 
 	“rpc_host”: “rpc.xnitc.com”,
+ 
 	“rpc_port”: “1281”,
+ 
 {
 
 
@@ -171,8 +181,11 @@ Will require Twitter/X Account Access.
 
 Requires a separate configuration section.
 {
+
 	“twitter_user”: “TwitterXUsername”,
+ 
 	“twitter_pass”: “TwitterXPassword”,
+ 
 }
 
 # Roblox Group Moderation
@@ -180,8 +193,10 @@ Will require Roblox Account Access.
 
 Requires a separate configuration section.
 {
+
 	“rblx_user”: “RobloxianUsername”,
 	“rblx_pass”: “RobloxianPassword”,
+ 
 }
 
 Side note to the users, Avalyn Discord Assistant tries to collect as little data as possible, focusing on a more user friendly and secure Discord user experience.
