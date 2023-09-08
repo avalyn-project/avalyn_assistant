@@ -19,9 +19,6 @@ Avalyn Web UI/RPC [Demos]
 Social Media
 - https://twitter.com/avalyn_project/
 
-Repositories
-- https://github.com/avalyn-project/
-
 Keep in touch
 - bugs@avalyn.cc
 - bugs@xnitc.com
