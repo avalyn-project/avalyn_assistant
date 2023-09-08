@@ -12,8 +12,6 @@ Documentation Dates
 
 The Avalyn Project
 -
-`On the web`
-- https://xnitc.com/
 
 `Avalyn Web UI [Demo]`
 - https://avalyn.xnitc.com/
