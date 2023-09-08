@@ -198,7 +198,7 @@ Avalyn Discord Assistant [Default] Configuration
 	“clientId”: “Client_ID”.
 	“guildId”: “Guild_ID”,
 
-}
+} Keep this set of brackets intact.
 
 Avalyn Discord Assistant [Web] Configuration
 -
@@ -211,7 +211,7 @@ Avalyn Discord Assistant [Web] Configuration
 	“rpc_host”: “rpc.xnitc.com”,
 	“rpc_port”: “1281”,
  
-}
+} These brackets can be removed as needed.
 
 Avalyn Twitter Automation
 -
@@ -223,7 +223,7 @@ Avalyn Twitter Automation
 	“twitter_user”: “TwitterXUsername”,
 	“twitter_pass”: “TwitterXPassword”,
  
-}
+} These brackets can be removed as needed.
 
 Roblox Group Moderation
 -
@@ -235,7 +235,7 @@ Roblox Group Moderation
 	“rblx_user”: “RobloxianUsername”,
 	“rblx_pass”: “RobloxianPassword”,
  
-}
+} These brackets can be removed as needed.
 
 Side note to the users, Avalyn Discord Assistant tries to collect as little data as possible, focusing on a more user friendly and secure Discord user experience.
 
