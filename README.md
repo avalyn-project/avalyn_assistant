@@ -43,6 +43,7 @@ Avalyn can also assist you with creating Genesis Blocks for your own Blockchains
 There are so many Avalyn commands and features to come in future updates.
 
 # Discord Commands
+
 # Utility Commands
 
 `/user` - This command simply displays the information of the command user.
