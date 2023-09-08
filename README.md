@@ -191,7 +191,7 @@ Avalyn Discord Assistant [Default] Configuration
 -
 - Requires a separate configuration section.
 
-{
+{ The brackets are required for the initial configuration.
 
 	“token”: “Token_ID”,
 	“prefix”: “/”,
@@ -204,21 +204,21 @@ Avalyn Discord Assistant [Web] Configuration
 -
 - Requires a separate configuration section.
 
-}
+{ The brackets are not required for the initial configuration.
 
 	“host”: “avalyn.xnitc.com”,
 	“port”: “1280”,
 	“rpc_host”: “rpc.xnitc.com”,
 	“rpc_port”: “1281”,
  
-{
+}
 
 Avalyn Twitter Automation
 -
 - Will require Twitter/X Account Access.
 - Requires a separate configuration section.
 
-{
+{ The brackets are not required for the initial configuration.
 
 	“twitter_user”: “TwitterXUsername”,
 	“twitter_pass”: “TwitterXPassword”,
@@ -230,7 +230,7 @@ Roblox Group Moderation
 - Will require Roblox Account Access.
 - Requires a separate configuration section.
 
-{
+{ The brackets are not required for the initial configuration.
 
 	“rblx_user”: “RobloxianUsername”,
 	“rblx_pass”: “RobloxianPassword”,
