@@ -133,21 +133,24 @@ Which includes the following web based settings and configuration.
 
 # Avalyn RPC Client
 With the features and commands listed above, there is still more, embedded within its coding is the Avalyn RPC (Remote Procedure Call) Client. Which in some cases allows users to communicate with Avalyn without Discord access, all securely processed client-side.
+
 This light-weight RPC client allows ease of use, as it allows some functions to be operated outside of the Discord Framework.
+
 Some use cases include functions that are bound to the Avalyn Blockchain and the Avalyn Web UI.
 
 
 # Avalyn RPC Usage Cases
 This includes, but not limited to
-Genesis Block Creation. (/avy-rpc/genesis)
-Avalyn Crypto Wallet Creation. (/rpc/wallet)
-Avalyn Blockchain Data. (/rpc/height, /rpc/blocks [Number Number])
-Stock or Cryptocurrency Price Checks. (/rpc/stock [Name], /rpc/crypto [Name])
+
+- Genesis Block Creation. (/avy-rpc/genesis)
+- Avalyn Crypto Wallet Creation. (/rpc/wallet)
+- Avalyn Blockchain Data. (/rpc/height, /rpc/blocks [Number Number])
+- Stock or Cryptocurrency Price Checks. (/rpc/stock [Name], /rpc/crypto [Name])
 
 Updates to the Assistant application, RPC client, Web UI, are not only up to the creators and developers of the project. We encourage active bug reporting and overall development of commands, features, and functions of the Avalyn Discord Assistant application.
 
 If this project becomes more than the intended “Discord” only application, we welcome that, we would like to give this project as much functionality as possible.
-Avalyn Plugins
+# Avalyn Plugins
 Please keep in mind, with the moderation, we do not advise you to use accounts that have high priority or accounts that are “main accounts”, as most of the moderation with Twitter and Roblox accounts and groups moderation accounts are usually operated with accounts known as “Alternate Accounts”.
 
 # Avalyn Discord Assistant [Default] Configuration
