@@ -1,5 +1,6 @@
 <p align="center">
 <a href="" target="_blank"><img src="" width="" height="" border="0"></a>
+	
 `Secure` | `User-Friendly` | `Client-Side.` | `Discord Client.` | `Web Client.` | `RPC Client.`
 </p>
 <p align="center">
