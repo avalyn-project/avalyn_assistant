@@ -4,8 +4,8 @@ If you are unsure as to how you should set these files up, that is what this fil
 
 First, instead of spending tons of time trying to figure out the SSL creation, you can setup SSL certificates with ease using certbot
 
-RPC Client
--
+RPC Client SSL Certificate
+
 <VirtualHost *:80>
   ProxyPreserveHost On
   ProxyRequests Off
