@@ -10,7 +10,7 @@ Web UI SSL Certificate
 <VirtualHost *:80> 
   ProxyPreserveHost On
   ProxyRequests Off
-  ServerAdmin server@xnitc.com
+  ServerAdmin server@example.com
   ServerName web.example.com
   ServerAlias web.example.com
 
