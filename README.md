@@ -14,16 +14,20 @@ The Avalyn Project
 -
 Avalyn Web UI/RPC [Demos]
 -
+
 - https://avalyn.xnitc.com/
 - https://rpc.xnitc.com
 
-`Social Media`
+Social Media
+-
 - https://twitter.com/avalyn_project/
 
-`Repositories`
+Repositories
+-
 - https://github.com/avalyn-project/
 
-`Keep in touch`
+Keep in touch
+-
 - bugs@avalyn.cc
 - bugs@xnitc.com
 
