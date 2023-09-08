@@ -147,7 +147,13 @@ This includes, but not limited to
 - Avalyn Blockchain Data. (/rpc/height, /rpc/blocks [Number Number])
 - Stock or Cryptocurrency Price Checks. (/rpc/stock [Name], /rpc/crypto [Name])
 
-Updates to the Assistant application, RPC client, Web UI, are not only up to the creators and developers of the project. We encourage active bug reporting and overall development of commands, features, and functions of the Avalyn Discord Assistant application.
+
+Updates to the
+- Assistant application.
+- RPC client.
+- Web UI.
+
+Are not only up to the creators and developers of the project. We encourage active bug reporting and overall development of commands, features, and functions of the Avalyn Discord Assistant application.
 
 If this project becomes more than the intended “Discord” only application, we welcome that, we would like to give this project as much functionality as possible.
 # Avalyn Plugins
