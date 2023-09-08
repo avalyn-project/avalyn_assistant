@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="" target="_blank"><img src="" width="" height="" border="0"></a>
+<a href="" target="_blank"><img src="https://xnitc.com/discord/bots/avalyn/data/imgs/avalyn_logo.png" width="414" height="129" border="0"></a>
 </p>
 
 `Secure` | `User-Friendly` | `Client-Side.` | `Discord Client.` | `Web Client.` | `RPC Client.` | `Open Source Client`
