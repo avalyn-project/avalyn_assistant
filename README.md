@@ -304,7 +304,7 @@ Roblox Group Moderation
 	“rblx_user”: “RobloxianUsername”,
 	“rblx_pass”: “RobloxianPassword”,
  
-} These brackets can be removed as needed.
+} <font style="color: red;">These brackets can be removed as needed.</font>
 
 Side note to the users, Avalyn Discord Assistant tries to collect as little data as possible, focusing on a more user friendly and secure Discord user experience.
 
