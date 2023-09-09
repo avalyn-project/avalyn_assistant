@@ -14,7 +14,7 @@ Secure. | User-Friendly. | Client-Side. | Discord Client. | Web Client. | RPC Cl
 <img src="https://www.pngmart.com/files/22/Ubuntu-Logo-Transparent-PNG.png" width="75" height="75"></img>
 </td>
 <td>
-<img src="https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Download-Image.png" width="75" height="75"></img>	
+<img src="https://cdn-icons-png.flaticon.com/512/2333/2333338.png" width="75" height="75"></img>	
 </td>
 </tr>
 </table>
