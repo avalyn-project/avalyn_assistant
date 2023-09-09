@@ -3,7 +3,7 @@
 <a href="" target="_blank"><img src="https://xnitc.com/discord/bots/avalyn/data/imgs/avalyn_logo.png" width="414" height="129" border="0"></a>
 </p>
 <p align="center">
-`Secure.` | User-Friendly. | Client-Side. | Discord Client. | Web Client. | RPC Client. | Open Source Client.`
+- Secure. | - User-Friendly. | - Client-Side. | - Discord Client. | - Web Client. | - RPC Client. | - Open Source Client.`
 </p>
 
 - - -
