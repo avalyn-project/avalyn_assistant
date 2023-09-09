@@ -33,7 +33,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 </tr>
 <tr>
 <td>
-<img src="https://cdn-icons-png.flaticon.com/128/6358/6358090.png" width="45" height="45"></img>	
+<img src="https://cdn-icons-png.flaticon.com/128/6358/6358090.png" width="35" height="35"></img>	
 </td>
 <td>
 <center>SSL/TLS</center>
