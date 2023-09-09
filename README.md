@@ -56,6 +56,7 @@ There will be multiple distributions hosted on our servers at https://xnitc.com/
 
 - [Ubuntu]: https://xnitc.com/distro/Linux/Ubuntu/
 - [Mint]: https://xnitc.com/distro/Linux/Mint/
+
 - - -
 
 # Avalyn Discord Assistant.
