@@ -19,6 +19,9 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <td>
 <img src="https://cdn-icons-png.flaticon.com/512/2333/2333338.png" width="75" height="75"></img>	
 </td>
+<td>
+SSL Included.
+</td>
 </tr>
 </table>
 
