@@ -6,7 +6,7 @@
 Secure. | User-Friendly. | Client-Side. | Discord Client. | Web Client. | RPC Client. | Open Source Client.
 </p>
 <p align="center">
-<a href="" target="_blank"><img src="https://xnitc.com/discord/bots/avalyn/data/imgs/nodejs.png" width="55" height="60" border="0"></a> <a href="" target="_blank"><img src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png" width="60" height="60" border="0"></a> <a href="" target="_blank"><img src="https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Download-Image.png" width="80" height="72" border="0"></a>
+<a href="" target="_blank"><img src="https://xnitc.com/discord/bots/avalyn/data/imgs/nodejs.png" width="55" height="60" border="0"></a> <a href="" target="_blank"><img src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png" width="80" height="72" border="0"></a> <a href="" target="_blank"><img src="https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Download-Image.png" width="80" height="72" border="0"></a>
 </p>
 
 - - -
