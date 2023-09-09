@@ -223,9 +223,9 @@ Avalyn Discord Assistant [Web] Configuration
 
 { The brackets are not required for the initial configuration.
 
-	“host”: “avalyn.xnitc.com”,
+	“host”: “example.com”,
 	“port”: “1280”,
-	“rpc_host”: “rpc.xnitc.com”,
+	“rpc_host”: “rpc-client.example.com”,
 	“rpc_port”: “1281”,
  
 } These brackets can be removed as needed.
