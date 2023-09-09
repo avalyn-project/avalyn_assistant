@@ -5,7 +5,6 @@
 <p align="center">
 Secure. | User-Friendly. | Client-Side. | Discord Client. | Web Client. | RPC Client. | Open Source Client.
 </p>
-<p align="center">
 <table border="0" width="75%" align="center">
 <tr>
 <td>
@@ -18,8 +17,7 @@ Secure. | User-Friendly. | Client-Side. | Discord Client. | Web Client. | RPC Cl
 <a href="" target="_blank"><img src="https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Download-Image.png" width="80" height="72" border="0"></a>	
 </td>
 </tr>
-	</table>
-</p>
+</table>
 
 - - -
 
