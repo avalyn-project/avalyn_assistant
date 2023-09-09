@@ -22,7 +22,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 </tr>
 <tr>
 <td>
-<img src="https://www.pngmart.com/files/22/Ubuntu-Logo-Transparent-PNG.png" width="75" height="75"></img>
+<img src="https://www.pngmart.com/files/22/Ubuntu-Logo-Transparent-PNG.png" width="45" height="45"></img>
 </td>
 <td>
 <center>Ubuntu Linux</center>
@@ -33,7 +33,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 </tr>
 <tr>
 <td>
-<img src="https://cdn-icons-png.flaticon.com/512/2333/2333338.png" width="75" height="75"></img>	
+<img src="https://cdn-icons-png.flaticon.com/512/2333/2333338.png" width="45" height="45"></img>	
 </td>
 <td>
 <center>NodeJS</center>
