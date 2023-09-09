@@ -5,9 +5,9 @@
 <p align="center">
 Secure. | User-Friendly. | Client-Side. | Discord Client. | Web Client. | RPC Client. | Open Source Client.
 </p>
-<table border="0" align="center">
+<table style="border: 0px; align: center;">
 <tr>
-<td style="border: 0px;">
+<td>
 <img src="https://xnitc.com/discord/bots/avalyn/data/imgs/nodejs.png" width="50" height="55"></img>
 </td>
 <td>
