@@ -34,7 +34,7 @@ Social Media
 
 Keep in touch
 - bugs@getavalyn.org
-- bugs@xnitc.com
+- contact@getavalyn.org
 
 Powered by The XNITC Network [2023]
 
@@ -109,7 +109,7 @@ Still, this is not all that Avalyn is, as you see the commands /print and /heigh
 
 # Upcoming Commands & Features.
 You can find a full listing of commands and features at
-- https://avalyn.xnitc.com/commands
+- https://getavalyn.org/commands
 
 Basic Mathematics Commands
 -
