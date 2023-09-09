@@ -14,10 +14,10 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-ubuntu-17-1175077.png" width="35" height="35"></img>
 </td>
 <td>
-<center>Ubuntu Linux</center>
+<center>Ubuntu</center>
 </td>
 <td>
-<center>22.04.2 LTS</center>
+<center>Version: 22.04.2 LTS</center>
 </td>
 </tr>
 <tr>
@@ -28,7 +28,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>NodeJS</center>
 </td>
 <td>
-<center>20.4.0</center>
+<center>Version: 20.4.0</center>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>SSL/TLS</center>
 </td>
 <td>
-<center>TLS 1.3</center>
+<center>Version: TLS 1.3</center>
 </td>
 </tr>
 </table>
