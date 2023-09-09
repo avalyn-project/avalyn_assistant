@@ -25,7 +25,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <img src="https://s1.o7planning.com/ru/11931/images/20938929.png" width="35" height="35"></img>
 </td>
 <td>
-<center>NodeJS</center>
+<center>NodeJS [https://nodejs.org/]</center>
 </td>
 <td>
 <center>Version: 20.4.0</center>
