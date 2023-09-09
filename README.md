@@ -7,14 +7,14 @@ Secure. | User-Friendly. | Client-Side. | Discord Client. | Web Client. | RPC Cl
 </p>
 <table border="0" align="center">
 <tr>
-<td style="border: 0px;">
-<img src="https://code-maven.com/img/node.png" width="50" height="55"></img>
+<td>
+<img src="https://code-maven.com/img/node.png" width="50" height="50"></img>
 </td>
 <td>
-<img src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png" width="50" height="55"></img>
+<img src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png" width="50" height="50"></img>
 </td>
 <td>
-<img src="https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Download-Image.png" width="55" height="55"></img>	
+<img src="https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Download-Image.png" width="50" height="50"></img>	
 </td>
 </tr>
 </table>
