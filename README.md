@@ -36,10 +36,10 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <img src="https://cdn-icons-png.flaticon.com/512/2333/2333338.png" width="45" height="45"></img>	
 </td>
 <td>
-<center>NodeJS</center>
+<center>SSL/TLS</center>
 </td>
 <td>
-<center>Version</center>
+<center>TLS 1.3</center>
 </td>
 </tr>
 </table>
