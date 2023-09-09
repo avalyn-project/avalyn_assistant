@@ -22,7 +22,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 </tr>
 <tr>
 <td>
-SSL Included.
+<center>NodeJS</center>
 </td>
 </tr>
 </table>
