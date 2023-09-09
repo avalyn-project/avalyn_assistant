@@ -17,7 +17,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>Ubuntu</center>
 </td>
 <td>
-<center>Version: 22.04.2 LTS</center>
+<center>Version: 22.04.2 LTS [ <a href="https://ubuntu.com" target="_blank">https://ubuntu.com</a> ]</center>
 </td>
 </tr>
 <tr>
@@ -28,7 +28,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>NodeJS</center>
 </td>
 <td>
-<center>Version: 20.4.0 [<a href="https://nodejs.org" target="_blank">https://nodejs.org</a>]</center>
+<center>Version: 20.4.0 [ <a href="https://nodejs.org" target="_blank">https://nodejs.org</a> ]</center>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>SSL/TLS</center>
 </td>
 <td>
-<center>Version: TLS 1.3 [<a href="https://nodejs.org" target="_blank">https://nodejs.org</a>]</center>
+<center>Version: TLS 1.3 [ <a href="https://nodejs.org" target="_blank">https://nodejs.org</a> ]</center>
 </td>
 </tr>
 </table>
