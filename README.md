@@ -24,6 +24,9 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>Version</center>
 </td>
 </tr>
+</table>
+
+<table border="0" align="center">
 <tr>
 <td>
 <img src="https://www.pngmart.com/files/22/Ubuntu-Logo-Transparent-PNG.png" width="75" height="75"></img>
@@ -39,6 +42,9 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>Version</center>
 </td>
 </tr>
+</table>
+
+<table border="0" align="center">
 <tr>
 <td>
 <img src="https://cdn-icons-png.flaticon.com/512/2333/2333338.png" width="75" height="75"></img>	
