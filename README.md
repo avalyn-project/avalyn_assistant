@@ -3,7 +3,7 @@
 <a href="" target="_blank"><img src="https://xnitc.com/discord/bots/avalyn/data/imgs/avalyn_logo.png" width="414" height="129" border="0"></a>
 </p>
 <p align="center">
-[Security-Focused.] | [Fully Customizable.] | [User-Friendly.] | [Discord Client.] | [Web Frontend Client.] | [RPC BackendClient.] | [Open Source Client.]
+[Security-Focused.]|[Fully Customizable.]|[User-Friendly.]|[Discord Client.]|[Web Frontend Client.]|[RPC BackendClient.]|[Open Source Client.]
 </p>
 
 - - -
