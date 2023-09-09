@@ -31,7 +31,10 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>NodeJS</center>
 </td>
 <td>
-<center>Version: 20.4.0 [ <a href="https://nodejs.org" target="_blank">https://nodejs.org</a> ]</center>
+<center>Version: 20.4.0</center>
+</td>
+<td>
+<a href="https://nodejs.org" target="_blank">https://nodejs.org</a> ]</center>
 </td>
 </tr>
 <tr>
