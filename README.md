@@ -22,7 +22,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 </tr>
 <tr>
 <td>
-<img src="https://images.pling.com/img/00/00/45/55/34/1195582/29505a84d621b06a3f7e2cca1e8c760752d1.png" width="45" height="45"></img>
+<img src="https://hostycare.com/blog/wp-content/uploads/2022/12/ubantu.png" width="45" height="45"></img>
 </td>
 <td>
 <center>Ubuntu Linux</center>
