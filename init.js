@@ -1,19 +1,6 @@
 
 // *********************************************************************************************************** //
-// Welcome to the Avalyn Discord assistant, what you can do with this application is simple, you can           //
-// easily moderate your discord servers.                                                                       //
-//                                                                                                             //
-// But, the difference is, The Avalyn Project, is also embedded within, allowing you to use                    //
-// 'The Avalyn Project' to create your own Blockchain and Blockchain tools!                                    //
-//                                                                                                             //
-// <Q:> How is that possible?                                                                                  //
-// <A:> Well, with the included plugins created by                                                             //
-//      The Avalyn Project (c) 2021/2023.                                                                      //
-//      Prototype Alice (c) 2023                                                                               //
-//                                                                                                             //
-//                                                                                                             //
-//                                                                                                             //
-//                                                                                                             //
+// Copytight (c) 2023 The Avalyn Project                                                                       //
 // *********************************************************************************************************** //
 
 const fs = require('node:fs');
