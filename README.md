@@ -11,7 +11,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <table border="0" align="center">
 <tr>
 <td>
-<img src="https://code-maven.com/img/node.png" width="45" height="45"></img>
+<img src="https://code-maven.com/img/node.png" width="75" height="75"></img>
 </td>
 <td>
 <center>NodeJS</center>
