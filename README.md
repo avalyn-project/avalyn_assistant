@@ -45,7 +45,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>SSL/TLS</center>
 </td>
 <td>
-<center>Version: TLS 1.3</center>
+<center><font color=#ffcc00>TLS 1.3</center>
 </td>
 <td>
 <a href="https://certbot.eff.org" target="_blank">https://certbot.eff.org</a></center>
