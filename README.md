@@ -27,7 +27,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 </tr>
 <tr>
 <td>
-<center>Ubuntu</center>
+<center>Version</center>
 </td>
 </tr>
 </table>
