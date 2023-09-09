@@ -22,7 +22,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 </tr>
 <tr>
 <td>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-ubuntu-17-1175077.png" width="45" height="45"></img>
+<img src="https://s1.o7planning.com/ru/11931/images/20938929.png" width="45" height="45"></img>
 </td>
 <td>
 <center>NodeJS</center>
@@ -33,7 +33,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 </tr>
 <tr>
 <td>
-<img src="https://cdn-icons-png.flaticon.com/512/2333/2333338.png" width="45" height="45"></img>	
+<img src="" width="45" height="45"></img>	
 </td>
 <td>
 <center>SSL/TLS</center>
