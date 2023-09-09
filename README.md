@@ -5,6 +5,7 @@
 <p align="center">
 Secure. | User-Friendly. | Client-Side. | Discord Client. | Web Client. | RPC Client. | Open Source Client.
 </p>
+- - -
 <table border="0" align="center">
 <tr>
 <td>
