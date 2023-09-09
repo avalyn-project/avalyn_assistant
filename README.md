@@ -55,9 +55,11 @@ You can use any distributions of linux with Avalyn, it does not have to be Ubunt
 There will be multiple distributions hosted on our servers at <a href="https://distro.xnitc.com/Linux" target="_blank">https://xnitc.com/distro/Linux/</a>
 
 `[Ubuntu]:`
+
 https://xnitc.com/distro/Linux/Ubuntu/
 
 `[Mint]:`
+
 https://xnitc.com/distro/Linux/Mint/
 
 - - -
