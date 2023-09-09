@@ -17,7 +17,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>Ubuntu</center>
 </td>
 <td>
-<center>Version: 22.04.2 LTS</center>
+<center>v22.04.2 LTS</center>
 </td>
 <td>
 <center><a href="https://ubuntu.com" target="_blank">https://ubuntu.com</a></center>
