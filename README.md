@@ -31,7 +31,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>NodeJS</center>
 </td>
 <td>
-<center>Version: 20.4.0</center>
+<center>v20.4.0</center>
 </td>
 <td>
 <a href="https://nodejs.org" target="_blank">https://nodejs.org</a></center>
@@ -45,7 +45,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>SSL/TLS</center>
 </td>
 <td>
-<center><font color=#ffcc00>TLS 1.3</center>
+<center>TLS v1.3</center>
 </td>
 <td>
 <a href="https://certbot.eff.org" target="_blank">https://certbot.eff.org</a></center>
