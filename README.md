@@ -56,9 +56,7 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 
 `[Ubuntu]:` https://distro.xnitc.com/Linux/Ubuntu/
 
-`[Mint]:` https://distro.xnitc.com/Linux/Ubuntu/
-
-https://xnitc.com/distro/Linux/Mint/
+`[Mint]:` https://distro.xnitc.com/Linux/Mint/
 
 - - -
 
