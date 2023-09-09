@@ -7,14 +7,14 @@ Secure. | User-Friendly. | Client-Side. | Discord Client. | Web Client. | RPC Cl
 </p>
 <table border="0" align="center">
 <tr>
-<td border="0">
-<a href="" target="_blank"><img src="https://xnitc.com/discord/bots/avalyn/data/imgs/nodejs.png" width="70" height="72" border="0"></a>
+<td>
+<img src="https://xnitc.com/discord/bots/avalyn/data/imgs/nodejs.png" width="70" height="72"></img>
 </td>
 <td>
-<a href="" target="_blank"><img src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png" width="80" height="72" border="0"></a>
+<img src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png" width="80" height="72"></img>
 </td>
 <td>
-<a href="" target="_blank"><img src="https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Download-Image.png" width="80" height="72" border="0"></a>	
+<img src="https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Download-Image.png" width="80" height="72"></img>	
 </td>
 </tr>
 </table>
