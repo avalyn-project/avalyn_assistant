@@ -6,7 +6,7 @@
 Secure. | User-Friendly. | Client-Side. | Discord Client. | Web Client. | RPC Client. | Open Source Client.
 </p>
 <p align="center">
-<table border="0" width="75%">
+<table border="0" width="75%" align="center">
 <tr>
 <td>
 <a href="" target="_blank"><img src="https://xnitc.com/discord/bots/avalyn/data/imgs/nodejs.png" width="70" height="72" border="0"></a>
