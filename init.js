@@ -38,10 +38,10 @@ client.once(Events.ClientReady, c => {
 // The initial connection to the GUI Server and Port, you can use the official servers that are operated by   //
 // The Avalyn Project.                                                                                        //
 //                                                                                                            //
-// Server [1]: avalyn.xnitc.com                                                                               //
-// Server [2]: alice.xnitc.com                                                                                //
-// Port [1]: 17530                                                                                            //
-// Port [2]: 17531                                                                                            //
+// Server [UI]: getavalyn.org                                                                                 //
+// Server [RPC]: rpc-client.getavalyn.org                                                                     //
+// Port [1]: 1280                                                                                             //
+// Port [2]: 1281                                                                                             //
 // ********************************************************************************************************** //
 require("./lib/core/http_secure/server.js");
 require("./lib/core/rpc/client.js");
