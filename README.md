@@ -23,6 +23,8 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <td>
 <center>Version</center>
 </td>
+</tr>
+<tr>
 <td>
 <img src="https://www.pngmart.com/files/22/Ubuntu-Logo-Transparent-PNG.png" width="75" height="75"></img>
 </td>
