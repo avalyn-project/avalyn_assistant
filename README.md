@@ -11,7 +11,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <table border="0" align="center">
 <tr>
 <td>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-ubuntu-17-1175077.png" width="45" height="45"></img>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-ubuntu-17-1175077.png" width="35" height="35"></img>
 </td>
 <td>
 <center>Ubuntu Linux</center>
