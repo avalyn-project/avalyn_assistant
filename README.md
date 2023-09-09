@@ -22,7 +22,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 </tr>
 <tr>
 <td>
-<img src="https://s1.o7planning.com/ru/11931/images/20938929.png" width="45" height="45"></img>
+<img src="https://s1.o7planning.com/ru/11931/images/20938929.png" width="35" height="35"></img>
 </td>
 <td>
 <center>NodeJS</center>
