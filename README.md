@@ -25,6 +25,10 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>NodeJS</center>
 </td>
 </tr>
+<tr>
+<td>
+<center>Ubuntu</center>
+</td>
 </table>
 
 - - -
