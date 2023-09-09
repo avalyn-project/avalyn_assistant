@@ -11,17 +11,6 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <table border="0" align="center">
 <tr>
 <td>
-<img src="https://code-maven.com/img/node.png" width="45" height="45"></img>
-</td>
-<td>
-<center>NodeJS</center>
-</td>
-<td>
-<center>20.4.0</center>
-</td>
-</tr>
-<tr>
-<td>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-ubuntu-17-1175077.png" width="45" height="45"></img>
 </td>
 <td>
@@ -29,6 +18,17 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 </td>
 <td>
 <center>22.04.2 LTS</center>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-ubuntu-17-1175077.png" width="45" height="45"></img>
+</td>
+<td>
+<center>NodeJS</center>
+</td>
+<td>
+<center>20.4.0</center>
 </td>
 </tr>
 <tr>
