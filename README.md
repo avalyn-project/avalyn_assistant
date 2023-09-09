@@ -14,7 +14,7 @@ Secure. | User-Friendly. | Client-Side. | Discord Client. | Web Client. | RPC Cl
 <img src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png" width="50" height="55"></img>
 </td>
 <td>
-<img src="https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Download-Image.png" width="80" height="72"></img>	
+<img src="https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Download-Image.png" width="50" height="55"></img>	
 </td>
 </tr>
 </table>
