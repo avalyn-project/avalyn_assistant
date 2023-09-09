@@ -28,7 +28,7 @@ Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web
 <center>Ubuntu Linux</center>
 </td>
 <td>
-<center>Version</center>
+<center>22.04.2 LTS</center>
 </td>
 </tr>
 <tr>
