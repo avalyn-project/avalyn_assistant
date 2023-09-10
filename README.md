@@ -5,6 +5,7 @@
 <p align="center">
 Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web Client. | RPC Client. | Open Source.
 </p>
+
 # 
 
 <table border="0" align="center">
@@ -58,7 +59,9 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 `[Ubuntu]:` <a href="https://distro.xnitc.com/Linux/Ubuntu/" target="_blank">https://xnitc.com/distro/Linux/Ubuntu/</a>
 
 `[Mint]:` <a href="https://distro.xnitc.com/Linux/Mint/" target="_blank">https://xnitc.com/distro/Linux/Mint/</a>
+
 # 
+
 # Avalyn Discord Assistant.
 Version 0.1.2 Beta
 -
