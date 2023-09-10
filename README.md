@@ -1,12 +1,9 @@
-# 
 <p align="center">
 <a href="" target="_blank"><img src="https://xnitc.com/discord/bots/avalyn/data/imgs/avalyn_logo.png" width="414" height="129" border="0"></a>
 </p>
 <p align="center">
 Security-Focused. | Fully Customizable. | User-Friendly. | Discord Client. | Web Client. | RPC Client. | Open Source.
 </p>
-
-# 
 
 <table border="0" align="center">
 <tr>
