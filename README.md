@@ -59,14 +59,15 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 
 # 
 
-## Avalyn Discord Assistant.
+### Avalyn Discord Assistant.
 
-## Version 0.1.2 Beta
+### Version 0.1.2 Beta
 
 As this version is still early in the development of the Avalyn Discord Assistant, it is still in a closed beta phase, once it has been approved to be released as and open beta, it will be released to the public to beta test.
 Disclaimer
 
--
+- 
+
 Any and all commands, features, or functions mentioned within this documentation will be included within the final project, or within following updates and upgrades.
 
 Documentation Dates
