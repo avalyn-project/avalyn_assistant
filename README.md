@@ -63,7 +63,8 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 # 
 
 Avalyn Discord Assistant.
--
+- 
+
 Version 0.1.2 Beta
 -
 
