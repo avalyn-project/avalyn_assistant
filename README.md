@@ -240,7 +240,7 @@ Avalyn RPC Usage Cases
 -
 This includes, but not limited to
 
-- Genesis Block Creation. (/avalyn-client/genesis)
+- Genesis Block Creation. (/genesis)
 - Avalyn Crypto Wallet Creation. (/wallet)
 - Avalyn Blockchain Data. (/height, /blocks [Number Number])
 - Stock or Cryptocurrency Price Checks. (/stock [Name/Ticker], /crypto [Name/Ticker])
