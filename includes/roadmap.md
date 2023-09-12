@@ -39,3 +39,8 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 - 05/27/2023 []
 - - Addition of the Avalyn Web UI in main project.
+
+#
+
+- 06/08/2023 []
+- - Development on the Avalyn RPC Client started.
