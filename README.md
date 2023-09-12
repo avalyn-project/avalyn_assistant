@@ -75,11 +75,11 @@ If you are unable to use the self hosting method above, you could always opt for
 
 On a simple side note, The avalyn Project is also working on creating a dedicated hosting method, this way, you would only have to customize you Frontend Web UI and Backend RPC Client.
 
-- - Avalyn Dedicated Method Includes
-  - HTML and CSS Editor for your Frontend Web UI and Backend RPC Client Pages.
-  - 20 GBs of disk space on the The Avalyn Project and The XNITC Network servers.
-  - - Data and Space will change with the growth of Avalyn.
-    - - Next Checkpoint 25 GBs.
+## Avalyn Dedicated Method Includes
+- HTML and CSS Editor for your Frontend Web UI and Backend RPC Client Pages.
+- - 20 GBs of disk space on the The Avalyn Project and The XNITC Network servers.
+- - Data and Space will change with the growth of Avalyn.
+- - - Next Checkpoint 25 GBs.
 
 # 
 
