@@ -85,9 +85,13 @@ On a simple side note, The avalyn Project is also working on creating a dedicate
 - - 20 GBs of disk space on the The Avalyn Project and The XNITC Network servers.
 - - Data and Space will change with the growth of Avalyn.
 - - - Avalyn Dedicated Plans & Features
-- - - - 25 GBs of space.
-- - - - 50 GBs of space.
-- - - - 75 GBs of space.
+    - 
+Our Avalyn dedicated plans are a scalable service, which means, this service will scale in size along with the progress of Avalyn's growth.
+
+- Prototype Alice Plan
+- - 25 GBs of space.
+- - Access to premade Web UI/RPC client templates..
+- - 
 
 # 
 
