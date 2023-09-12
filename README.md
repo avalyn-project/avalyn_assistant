@@ -8,7 +8,6 @@
 <p align="center">
 Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI. | Backend RPC Client.
 </p>
-
 #
 
 <table border="0" align="center">
