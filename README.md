@@ -92,21 +92,21 @@ Our Avalyn dedicated plans are a scalable service, which means, this service wil
 
 #
 
-- Prototype Alice Plan
+## Prototype Alice Plan.
 - - 10 GBs of Avalyn disk space.
 - - 10 GBs personal space.
 - - Access to premade Web UI/RPC client templates..
 - - Scalable services and disk space.
 - - $2.00 [Monthly]
 
-- Prototype Kira Plan
+## Prototype Kira Plan.
 - - 10 GBs of Avalyn disk space.
 - - 30 GBs personal space.
 - - Access to premade Web UI/RPC client templates..
 - - Scalable services and disk space.
 - - $4.00 [Monthly]
 
-- Prototype Aura Plan
+## Prototype Aura Plan.
 - - 10 GBs of Avalyn disk space.
 - - 50 GBs personal space.
 - - Access to premade Web UI/RPC client templates..
