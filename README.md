@@ -106,7 +106,7 @@ Avalyn Discord Assistant NPM Requirements
 To install the required NPM packages, within the terminal, in the Avalyn main directory you will need to run the following command.
 npm install or npm update
 
-`If you would rather install the packages manually, you can easily run the command within the terminal in the Avalyn main directory.`
+If you would rather install the packages manually, you can easily run the command within the terminal in the Avalyn main directory.
 
 `npm install [package]`
 
