@@ -79,7 +79,10 @@ On a simple side note, The avalyn Project is also working on creating a dedicate
 - HTML and CSS Editor for your Frontend Web UI and Backend RPC Client Pages.
 - - 20 GBs of disk space on the The Avalyn Project and The XNITC Network servers.
 - - Data and Space will change with the growth of Avalyn.
-- - - Next Checkpoint 25 GBs.
+- - - Next Checkpoints
+- - - - 25 GBs of space.
+- - - - 50 GBs of space.
+- - - - 75 GBs of space.
 
 # 
 
