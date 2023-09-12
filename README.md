@@ -90,11 +90,11 @@ The Avalyn Project
 - - > https://rpc-client.getavalyn.org/ `[Beta]`
 
 - Social Media
-- - > `https://twitter.com/avalyn_project/`
+- - > https://twitter.com/avalyn_project/
 
 - Keep in touch
-- - > `bugs@getavalyn.org`
-- - > `contact@getavalyn.org`
+- - > bugs@getavalyn.org
+- - > contact@getavalyn.org
 
 Powered by The XNITC Network [2023]
 
@@ -104,7 +104,7 @@ On the web
 
 Avalyn Discord Assistant NPM Requirements
 -
-- >Discord.js v14.10.2
+- > Discord.js v14.10.2
 - > CLI-Color v2.0.3
 - > Crypto v1.0.1
 - > Crypto-JS v4.1.1
