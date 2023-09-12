@@ -27,7 +27,7 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 #
 
 - 03/16/2023 []
-- - Development halted, due to other projects.
+- - Development halted, due to development on other projects.
  
 #
 
