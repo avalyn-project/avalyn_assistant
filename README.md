@@ -15,9 +15,9 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 > <a href="./includes/Features.md" target="_blank">Full Feature Documentation.</a> [Current Features & Beta Features]
 
-> <a href="./includes/Roadmap.md" target="_blank">Full Feature Documentation.</a> [The Avalyn Project developmental Roadmap.]
+> <a href="./includes/Roadmap.md" target="_blank">Avalyn Roadmap.</a> [The Avalyn Project developmental Roadmap.]
 
-> <a href="./includes/Instructions" target="_blank">Full Feature Documentation.</a> [Instruction on how to setup Avalyn.]
+> <a href="./includes/Instructions" target="_blank">Avalyn Web UI/RPC Client Setup.</a> [Instruction on how to setup Avalyn.]
 
 #
 
