@@ -5,7 +5,7 @@
 
 #
 
-`Security-Focused.` | `Customizable.` | `Discord Client.` | `Frontend Web Client.` | `Backend RPC Client.` | `Open Source.`
+`Security-Focused.` | `Customizable.` | `Discord Client.` | `Frontend Web Client.` | `Backend RPC Client.`
 
 #
 
