@@ -129,8 +129,8 @@ What is Avalyn?
 Avalyn is a Discord Assistant that can do more than simply help you with the moderation, organization, and overall management of your Discord servers and channels.
 
 Avalyn can also
-- - - - Parse SHA256 Data.
-- - - - Parse Base58 Data.
+- Parse SHA256 Data.
+- - Parse Base58 Data.
 
 
 Avalyn can also assist you with creating Genesis Blocks for your own Blockchains and Cryptocurrencies via the Prototype Alice: Genesis Block Plugin created by The Avalyn Project.
@@ -219,23 +219,23 @@ Which includes the following web based settings and configuration.
 Avalyn Web Configuration. (Main Configuration)
 -
 - [Home] (home.html)
-- [About] (about.html)
-- [Invite] (invite.html)
-- [Donate] (donate.html)
+- - [About] (about.html)
+- - - [Invite] (invite.html)
+- - - - [Donate] (donate.html)
 
 Avalyn Web Settings/Configuration. (Developmental)
 -
 - [Developmental] (hub.html)
-- [Avalyn (AVY)] (crypto.html)
-- [Avalyn Blockchain] (blocks.html)
-- [Avalyn Wallet] (wallet.html)
+- - [Avalyn (AVY)] (crypto.html)
+- - - [Avalyn Blockchain] (blocks.html)
+- - - - [Avalyn Wallet] (wallet.html)
 
 Avalyn Support/Donation Methods. (Can be changed)
 -
 - [PayPal] (paypal.html)
-- [Bitcoin] (btc.html)
-- [Ethereum] (eth.html)
-- [Polkadot] (dot.html)
+- - [Bitcoin] (btc.html)
+- - - [Ethereum] (eth.html)
+- - - - [Polkadot] (dot.html)
 
 `All support is truly appreciated.`
 
