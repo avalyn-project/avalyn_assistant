@@ -218,24 +218,24 @@ Which includes the following web based settings and configuration.
 
 Avalyn Web Configuration. (Main Configuration)
 -
-- [Home] (home.html)
-- - [About] (about.html)
-- - - [Invite] (invite.html)
-- - - - [Donate] (donate.html)
+- [Home] (<a href="https://getavalyn.org/" target="_blank">home.html</a>)
+- - [About] (<a href="https://getavalyn.org/about" target="_blank">about.html</a>)
+- - - [Invite] (<a href="https://getavalyn.org/invite" target="_blank">invite.html</a>)
+- - - - [Donate] (<a href="https://getavalyn.org/donate" target="_blank">donate.html</a>)
 
 Avalyn Web Settings/Configuration. (Developmental)
 -
-- [Developmental] (hub.html)
-- - [Avalyn (AVY)] (crypto.html)
-- - - [Avalyn Blockchain] (blocks.html)
-- - - - [Avalyn Wallet] (wallet.html)
+- [Developmental] (<a href="https://getavalyn.org/dev" target="_blank">hub.html</a>)
+- - [Avalyn (AVY)] (<a href="https://getavalyn.org/dev/crypto" target="_blank">crypto.html</a>)
+- - - [Avalyn Blockchain] (<a href="https://getavalyn.org/dev/blockchain" target="_blank">blocks.html</a>)
+- - - - [Avalyn Wallet] (<a href="https://getavalyn.org/dev/wallet" target="_blank">wallet.html</a>)
 
 Avalyn Support/Donation Methods. (Can be changed)
 -
-- [PayPal] (paypal.html)
-- - [Bitcoin] (btc.html)
-- - - [Ethereum] (eth.html)
-- - - - [Polkadot] (dot.html)
+- [PayPal] (<a href="https://getavalyn.org/donate/paypal" target="_blank">paypal.html</a>)
+- - [Bitcoin] (<a href="https://getavalyn.org/donate/btc" target="_blank">btc.html</a>)
+- - - [Ethereum] (<a href="https://getavalyn.org/donate/eth" target="_blank">eth.html</a>)
+- - - - [Polkadot] (<a href="https://getavalyn.org/donate/dot" target="_blank">dot.html</a>)
 
 `All support is truly appreciated.`
 
