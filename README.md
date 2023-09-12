@@ -147,7 +147,7 @@ There are so many Avalyn commands and features to come in future updates.
 
 #
 
-- - > View our full listing of current and upcoming commands!
+- - > <a href="https://github.com/avalyn-project/avalyn_assistant/blob/main/includes/commands.md" target="_blank">View our full listing of current and upcoming commands!</a>
 
 #
 
