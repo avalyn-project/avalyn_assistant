@@ -72,6 +72,7 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 `Avalyn Dedicated Hosting Method`
 
 `Virtual Private & Dedicated Hosting`
+
 If you are unable to use the self hosting method above, you could always opt for the dedicated hosting method with a Virtual Private Server (VPS).
 
 `[OVHCloud]:` <a href="https://distro.xnitc.com/ovh/cloud/" target="_blank">https://xnitc.com/distro/ovh/cloud/</a>
