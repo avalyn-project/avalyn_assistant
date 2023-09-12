@@ -104,6 +104,7 @@ On the web
 
 Avalyn Discord Assistant NPM Requirements
 -
+
 > Discord.js v14.10.2
 > CLI-Color v2.0.3
 > Crypto v1.0.1
