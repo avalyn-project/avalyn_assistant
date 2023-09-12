@@ -56,7 +56,7 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 
 #
 
-`Avalyn Self Hosting`
+`Avalyn Self Hosting Method`
 
 `[Ubuntu]:` <a href="https://distro.xnitc.com/Linux/Ubuntu/" target="_blank">https://xnitc.com/distro/Linux/Ubuntu/</a>
 
