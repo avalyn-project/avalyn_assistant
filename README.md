@@ -4,9 +4,11 @@
 </p>
 
 #
+
 <p align="center">
 `Security-Focused.` | `Customizable.` | `Discord Client.` | `Frontend Web Client.` | `Backend RPC Client.`
 </p>
+
 #
 
 <table border="0" align="center">
