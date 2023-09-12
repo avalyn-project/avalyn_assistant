@@ -43,7 +43,7 @@ Avalyn Support/Donation Methods. (Can be changed)
 
 #
 
-The HTML pages can 
+The HTML pages can be edited via the Include HTML Editor created by The Avalyn Project.
 
 #
 
