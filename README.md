@@ -6,7 +6,7 @@
 #
 
 <p align="center">
-`Security-Focused.` | `Customizable.` | `Discord Client.` | `Frontend Web Client.` | `Backend RPC Client.`
+Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI. | Backend RPC Client.
 </p>
 
 #
