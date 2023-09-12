@@ -152,10 +152,6 @@ There are so many Avalyn commands and features to come in future updates.
 
 #
 
-- - > <a href="./includes/commands.md" target="_blank">View our full listing of current and upcoming commands!</a>
-
-#
-
 The Avalyn Project logos, icons, and trademarks are sole properties of The Avalyn Project, The Avalyn Protocol, The Avalyn Network, XNITC Network.
 
 
