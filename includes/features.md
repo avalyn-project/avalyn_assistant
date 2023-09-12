@@ -41,7 +41,11 @@ Avalyn Support/Donation Methods. (Can be changed)
 - - - [Ethereum] (<a href="https://getavalyn.org/donate/eth" target="_blank">eth.html</a> | `Can Edit.`)
 - - - - [Polkadot] (<a href="https://getavalyn.org/donate/dot" target="_blank">dot.html</a> | `Can Edit.`)
 
-`All support is truly appreciated.`
+#
+
+- - All support is truly appreciated.
+
+#
 
 # Avalyn RPC Client
 With the features and commands listed above, there is still more, embedded within its coding is the Avalyn RPC (Remote Procedure Call) Client. Which in some cases allows users to communicate with Avalyn without Discord access, all securely processed client-side.
