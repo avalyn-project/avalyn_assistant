@@ -59,3 +59,6 @@ This includes, but not limited to
 - Avalyn Crypto Wallet Creation. (/wallet)
 - Avalyn Blockchain Data. (/height, /blocks [Number Number])
 - Stock or Cryptocurrency Price Checks. (/stock [Name/Ticker], /crypto [Name/Ticker])
+
+# Upcoming Features
+
