@@ -210,7 +210,7 @@ Music Commands
 
 `/lyrics [Track Name]` - This command allows users to search lyrics of a specified track.
 
-`The Avalyn Project logos, icons, and trademarks are sole properties of The Avalyn Project, The Avalyn Protocol, The Avalyn Network, XNITC Network [2022] [2023].`
+The Avalyn Project logos, icons, and trademarks are sole properties of The Avalyn Project, The Avalyn Protocol, The Avalyn Network, XNITC Network.
 
 
 
