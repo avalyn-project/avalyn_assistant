@@ -29,10 +29,10 @@ Avalyn Web Configuration. (Main Configuration)
 
 Avalyn Web Settings/Configuration. (Developmental)
 -
-- [Developmental] (<a href="https://getavalyn.org/dev" target="_blank">hub.html</a> | Can be edited.)
-- - [Avalyn (AVY)] (<a href="https://getavalyn.org/dev/crypto" target="_blank">crypto.html</a> | Can be edited.)
-- - - [Avalyn Blockchain] (<a href="https://getavalyn.org/dev/blockchain" target="_blank">blocks.html</a> | Can be edited.)
-- - - - [Avalyn Wallet] (<a href="https://getavalyn.org/dev/wallet" target="_blank">wallet.html</a> | Can be edited.)
+- [Developmental] (<a href="https://getavalyn.org/dev" target="_blank">hub.html</a> | `Can Edit.`)
+- - [Avalyn (AVY)] (<a href="https://getavalyn.org/dev/crypto" target="_blank">crypto.html</a> | `Can Edit.`)
+- - - [Avalyn Blockchain] (<a href="https://getavalyn.org/dev/blockchain" target="_blank">blocks.html</a> | `Can Edit.`)
+- - - - [Avalyn Wallet] (<a href="https://getavalyn.org/dev/wallet" target="_blank">wallet.html</a> | `Can Edit.`)
 
 Avalyn Support/Donation Methods. (Can be changed)
 -
