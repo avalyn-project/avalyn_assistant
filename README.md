@@ -104,14 +104,14 @@ On the web
 
 Avalyn Discord Assistant NPM Requirements
 -
-- > Discord.js v14.10.2
-- > CLI-Color v2.0.3
-- > Crypto v1.0.1
-- > Crypto-JS v4.1.1
-- > Cors v2.8.5
-- > Body-Parser v1.20.2
-- > Express v4.18.2
-- > Web3 v4.1.1
+> Discord.js v14.10.2
+> CLI-Color v2.0.3
+> Crypto v1.0.1
+> Crypto-JS v4.1.1
+> Cors v2.8.5
+> Body-Parser v1.20.2
+> Express v4.18.2
+> Web3 v4.1.1
 
 To install the required NPM packages, within the terminal, in the Avalyn main directory you will need to run the following command.
 npm install or npm update
