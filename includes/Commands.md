@@ -76,3 +76,5 @@ Music Commands
 `/kw [Search Term]` - This command allows you to find tracks from keyword searches.
 
 `/lyrics [Track Name]` - This command allows users to search lyrics of a specified track.
+
+#
