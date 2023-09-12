@@ -59,7 +59,9 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 
 `[Mint]:` <a href="https://distro.xnitc.com/Linux/Mint/" target="_blank">https://xnitc.com/distro/Linux/Mint/</a>
 
-`Virtual Private Server (VPS) & Dedicated Hosting`
+`Avalyn Dedicated Hosting Method`
+
+`Virtual Private & Dedicated Hosting`
 `[OVHCloud]:` <a href="https://distro.xnitc.com/Linux/Ubuntu/" target="_blank">https://xnitc.com/distro/Linux/Ubuntu/</a>
 
 # 
