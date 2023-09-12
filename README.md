@@ -127,6 +127,7 @@ If you would rather install the packages manually, you can easily run the comman
 or
 
 `npm install [package] –save`
+
 then run `npm update`
 
 #
