@@ -90,10 +90,25 @@ On a simple side note, The avalyn Project is also working on creating a dedicate
 
 Our Avalyn dedicated plans are a scalable service, which means, this service will scale in size along with the progress of Avalyn's growth.
 
+#
+
 - Prototype Alice Plan
-- - 25 GBs of space.
+- - 10 GBs of space.
 - - Access to premade Web UI/RPC client templates..
-- - 
+- - Scalable services and disk space.
+- - $2.00 [Monthly]
+
+- Prototype Alice Plan
+- - 40 GBs of space.
+- - Access to premade Web UI/RPC client templates..
+- - Scalable services and disk space.
+- - $4.00 [Monthly]
+
+- Prototype Alice Plan
+- - 60 GBs of space.
+- - Access to premade Web UI/RPC client templates..
+- - Scalable services and disk space.
+- - $6.00 [Monthly]
 
 # 
 
