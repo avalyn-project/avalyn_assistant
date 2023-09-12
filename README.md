@@ -79,7 +79,7 @@ On a simple side note, The avalyn Project is also working on creating a dedicate
 - HTML and CSS Editor for your Frontend Web UI and Backend RPC Client Pages.
 - - 20 GBs of disk space on the The Avalyn Project and The XNITC Network servers.
 - - Data and Space will change with the growth of Avalyn.
-- - - Next Checkpoints
+- - - Avalyn Dedicated Plans & Features
 - - - - 25 GBs of space.
 - - - - 50 GBs of space.
 - - - - 75 GBs of space.
@@ -102,21 +102,22 @@ Documentation Dates
 
 The Avalyn Project
 -
-Avalyn Web UI/RPC [Demos]
-- https://getavalyn.org/ [Beta]
-- https://rpc-client.getavalyn.org/ [Beta]
+- Avalyn Web UI/RPC Client [Demos]
+- - https://getavalyn.org/ [Beta]
+- - https://rpc-client.getavalyn.org/ [Beta]
 
-Social Media
-- https://twitter.com/avalyn_project/
+- Social Media
+- - https://twitter.com/avalyn_project/
 
-Keep in touch
-- bugs@getavalyn.org
-- contact@getavalyn.org
+- Keep in touch
+- - bugs@getavalyn.org
+- - contact@getavalyn.org
 
 Powered by The XNITC Network [2023]
 
 On the web
 - https://xnitc.com/
+- - contact@xnitc.com
 
 Avalyn Discord Assistant NPM Requirements
 -
