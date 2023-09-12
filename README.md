@@ -12,6 +12,7 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 #
 
 > <a href="./includes/commands.md" target="_blank">View our full listing of current and upcoming commands!</a>
+
 > <a href="./includes/features.md" target="_blank">View our full listing of current and upcoming features!</a>
 #
 
