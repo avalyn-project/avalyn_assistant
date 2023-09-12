@@ -11,9 +11,14 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 #
 
-> <a href="./includes/commands.md" target="_blank">Full Command Documentation.</a> [Current Commands & Beta Commands]
+> <a href="./includes/Commands.md" target="_blank">Full Command Documentation.</a> [Current Commands & Beta Commands]
 
-> <a href="./includes/features.md" target="_blank">Full Feature Documentation.</a> [Current Features & Beta Features]
+> <a href="./includes/Features.md" target="_blank">Full Feature Documentation.</a> [Current Features & Beta Features]
+
+> <a href="./includes/Roadmap.md" target="_blank">Full Feature Documentation.</a> [The Avalyn Project developmental Roadmap.]
+
+> <a href="./includes/Instructions" target="_blank">Full Feature Documentation.</a> [Instruction on how to setup Avalyn.]
+
 #
 
 <table border="0" align="center">
