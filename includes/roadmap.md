@@ -57,5 +57,10 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 #
 
-- 07/23/2023 []
-- - The official GitHub for The Avalyn Project was created.
+- 08/12/2023 []
+- - Development halted, due to development on other projects.
+
+#
+
+- 09/07/2023 []
+- - Avalyn official GitHub Repository created!
