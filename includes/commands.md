@@ -55,9 +55,6 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 </td>
 </tr>
 </table>
-Although it is recommended that you use the Ubuntu Linux distribution, it is not required.
-
-There will be multiple distributions hosted on our servers at <a href="https://distro.xnitc.com/Linux" target="_blank">https://xnitc.com/distro/Linux/</a>
 
 #
 # Discord Commands
