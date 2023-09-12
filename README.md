@@ -67,52 +67,6 @@ There will be multiple distributions hosted on our servers at <a href="https://d
 
 `[Mint]:` <a href="https://distro.xnitc.com/Linux/Mint/" target="_blank">https://xnitc.com/distro/Linux/Mint/</a>
 
-#
-
-`Avalyn Dedicated Hosting Method`
-
-`Virtual Private & Dedicated Hosting`
-
-If you are unable to use the self hosting method above, you could always opt for the dedicated hosting method with a Virtual Private Server (VPS).
-
-`[OVHCloud]:` <a href="https://distro.xnitc.com/ovh/cloud/" target="_blank">https://xnitc.com/distro/ovh/cloud/</a>
-
-#
-
-On a simple side note, The avalyn Project is also working on creating a dedicated hosting method, this way, you would only have to customize you Frontend Web UI and Backend RPC Client.
-
-## Avalyn Dedicated Method Includes
-- HTML and CSS Editor for your Frontend Web UI and Backend RPC Client Pages.
-- - 20 GBs of disk space on the The Avalyn Project and The XNITC Network servers.
-- - Data and Space will change with the growth of Avalyn.
-
-## Avalyn Dedicated Plans & Features
-
-Our Avalyn dedicated plans are a scalable service, which means, this service will scale in size along with the progress of Avalyn's growth.
-
-#
-
-## Prototype Alice Plan.
-- - 10 GBs of Avalyn disk space.
-- - 10 GBs personal space.
-- - Access to premade Web UI/RPC client templates..
-- - Scalable services and disk space.
-- - $2.00 [Monthly]
-
-## Prototype Kira Plan.
-- - 10 GBs of Avalyn disk space.
-- - 30 GBs personal space.
-- - Access to premade Web UI/RPC client templates..
-- - Scalable services and disk space.
-- - $4.00 [Monthly]
-
-## Prototype Aura Plan.
-- - 10 GBs of Avalyn disk space.
-- - 50 GBs personal space.
-- - Access to premade Web UI/RPC client templates..
-- - Scalable services and disk space.
-- - $6.00 [Monthly]
-
 # 
 
 ## Avalyn Discord Assistant.
