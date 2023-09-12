@@ -84,8 +84,9 @@ On a simple side note, The avalyn Project is also working on creating a dedicate
 - HTML and CSS Editor for your Frontend Web UI and Backend RPC Client Pages.
 - - 20 GBs of disk space on the The Avalyn Project and The XNITC Network servers.
 - - Data and Space will change with the growth of Avalyn.
-- - - Avalyn Dedicated Plans & Features
-    - 
+
+## Avalyn Dedicated Plans & Features
+
 Our Avalyn dedicated plans are a scalable service, which means, this service will scale in size along with the progress of Avalyn's growth.
 
 - Prototype Alice Plan
