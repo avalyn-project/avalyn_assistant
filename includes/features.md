@@ -36,10 +36,10 @@ Avalyn Web Settings/Configuration. (Developmental)
 
 Avalyn Support/Donation Methods. (Can be changed)
 -
-- [PayPal] (<a href="https://getavalyn.org/donate/paypal" target="_blank">paypal.html</a> | `Can Edit.`)
-- - [Bitcoin] (<a href="https://getavalyn.org/donate/btc" target="_blank">btc.html</a> | `Can Edit.`)
-- - - [Ethereum] (<a href="https://getavalyn.org/donate/eth" target="_blank">eth.html</a> | `Can Edit.`)
-- - - - [Polkadot] (<a href="https://getavalyn.org/donate/dot" target="_blank">dot.html</a> | `Can Edit.`)
+- [PayPal] (<a href="https://getavalyn.org/donate/paypal" target="_blank">paypal.html</a>)
+- - [Bitcoin] (<a href="https://getavalyn.org/donate/btc" target="_blank">btc.html</a>)
+- - - [Ethereum] (<a href="https://getavalyn.org/donate/eth" target="_blank">eth.html</a>)
+- - - - [Polkadot] (<a href="https://getavalyn.org/donate/dot" target="_blank">dot.html</a>)
 
 #
 
