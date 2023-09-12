@@ -145,7 +145,11 @@ Avalyn can also assist you with creating Genesis Blocks for your own Blockchains
 
 There are so many Avalyn commands and features to come in future updates.
 
+#
+
 - - > View our full listing of current and upcoming commands!
+
+#
 
 The Avalyn Project logos, icons, and trademarks are sole properties of The Avalyn Project, The Avalyn Protocol, The Avalyn Network, XNITC Network.
 
