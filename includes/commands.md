@@ -11,52 +11,6 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 #
 
-<table border="0" align="center">
-<tr>
-<td>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-ubuntu-17-1175077.png" width="35" height="35"></img>
-</td>
-<td>
-<center>Ubuntu</center>
-</td>
-<td>
-<center>v22.04.2 LTS</center>
-</td>
-<td>
-<center><a href="https://ubuntu.com" target="_blank">https://ubuntu.com</a></center>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://s1.o7planning.com/ru/11931/images/20938929.png" width="35" height="35"></img>
-</td>
-<td>
-<center>NodeJS</center>
-</td>
-<td>
-<center>v20.4.0</center>
-</td>
-<td>
-<a href="https://nodejs.org" target="_blank">https://nodejs.org</a></center>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn-icons-png.flaticon.com/512/1320/1320569.png" width="35" height="35"></img>	
-</td>
-<td>
-<center>SSL/TLS</center>
-</td>
-<td>
-<center>TLS v1.3</center>
-</td>
-<td>
-<a href="https://certbot.eff.org" target="_blank">https://certbot.eff.org</a></center>
-</td>
-</tr>
-</table>
-
-#
 # Discord Commands
 
 Utility Commands
