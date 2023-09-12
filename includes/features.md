@@ -61,4 +61,9 @@ This includes, but not limited to
 - Stock or Cryptocurrency Price Checks. (/stock [Name/Ticker], /crypto [Name/Ticker])
 
 # Upcoming Features
+- - What we plan here, what we had planned, has evolved.
+> The original plan was to simply create a Discord assistant that could help with moderation and organization of my own Discord server and channels.
 
+> Then curiousity, of what I could do, what Avalyn could be.
+
+With that in mind, if you have any questions or comments, you can contact us at contact@getavalyn.org
