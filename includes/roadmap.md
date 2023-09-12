@@ -33,6 +33,7 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 
 - 05/03/2023 []
 - - Development on the Avalyn Web UI started.
+- - Finalized Blockchain commands addition. `/genesis` `/height`
 
 #
 
