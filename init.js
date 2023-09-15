@@ -43,7 +43,7 @@ client.once(Events.ClientReady, c => {
 // Port [1]: 1280                                                                                             //
 // Port [2]: 1281                                                                                             //
 // ********************************************************************************************************** //
-require("./lib/core/http_secure/server.js");
+require("./lib/core/http/server.js");
 require("./lib/core/rpc/client.js");
 
 console.log(clc.white(` Logged in as `) + clc.green(`${c.user.tag}\n ---------------------------------------------------------------`));
