@@ -13,8 +13,8 @@ What files will be included?
 
 You will need to
 - Create the initial Document Root directory. /path/to/document/root/dir
-- Create or edit the web-ui directory within the Document Root directory. /path/to/document/root/dir/web-ui
-- Copy the required files (301.html, 404.html, 502.html, 503.html) into the web-ui directory, or simply create your own.
+- Create or edit the web-ui directory within the Document Root directory. /path/to/document/root/dir/web-ui/errors
+- Copy the required files (301.html, 404.html, 502.html, 503.html) into the web-ui/errors directory, or simply create your own.
 
 Web UI & RPC Client SSL Certificate Template
 
