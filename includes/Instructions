@@ -1,3 +1,5 @@
+// Copyright (c) 2023 The Avalyn Project
+//
 // This file is an included SSL configuration for the WEB UI and RPC Client
 
 If you are unsure as to how you should set these files up, that is what this file is for.
