@@ -5,9 +5,18 @@
 If you are unsure as to how you should set these files up, that is what this file is for.
 
 First, instead of spending tons of time trying to figure out the SSL creation, you can setup SSL certificates with ease using certbot
+What files will be included?
+- 301.html
+- 404.html
+- 502.html
+- 503.html
 
+You will need to
+- Create the initial Document Root directory. /path/to/document/root/dir
+- Create or edit the web-ui directory within the Document Root directory. /path/to/document/root/dir/web-ui
+- Copy the required files (301.html, 404.html, 502.html, 503.html) into the web-ui directory, or simply create your own.
 
-Web UI SSL Certificate
+Web UI & RPC Client SSL Certificate Template
 
 <VirtualHost *:80> 
   ProxyPreserveHost On
