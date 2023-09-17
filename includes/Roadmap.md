@@ -63,6 +63,11 @@ Security-Focused. | Customizable. | Discord Assistant Client. | Frontend Web UI.
 #
 
 - 09/07/2023 []
-- - The Avalyn Project official GitHub Repository created!
+- - The Avalyn Project `temporary removal` of `RPC Client`.
+
+#
+
+- 09/17/2023 []
+- - `Combined init.js and cmds.js` in GitHub Repository downsize.
 
 #
