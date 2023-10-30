@@ -2,7 +2,7 @@
 # 
 
 <p align="center">
-<a href="" target="_blank"><img src="https://xnitc.com/discord/bots/avalyn/data/imgs/avalyn_logo.png" width="600" height="150" border="0"></a>
+<a href="" target="_blank"><img src="https://xnitc.com/discord/bots/avalyn/data/imgs/avalyn_logo.png" width="600" height="250" border="0"></a>
 </p>
 
 #
